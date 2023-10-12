@@ -1,5 +1,4 @@
 #!/home/artux/Documents/anaconda3/bin/python3
 
-import polynom_3
-import hyperbola
-
+def hyperbola(x):
+    return 1/x
