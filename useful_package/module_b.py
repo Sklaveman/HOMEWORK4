@@ -1,3 +1,4 @@
 #!/home/artux/Documents/anaconda3/bin/python3
 
-import hyperbola
+def hyperbola(x):
+    return 1/x
